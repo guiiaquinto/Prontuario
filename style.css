@@ -109,6 +109,16 @@ li:hover .ul-submenu{
     color: rgb(0, 0, 0);
 }
 
+.a-menu2:hover{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.a-menu2login:hover{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
 .li-menu2login:hover{
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
